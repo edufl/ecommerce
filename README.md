@@ -30,6 +30,8 @@ Projeto de e-commerce desenvolvido em React com funcionalidades reais de uma loj
 ---
 
 ## 📂 Estrutura do Projeto
+
+```
 src/
 ├── components/
 │   ├── Navbar.jsx
@@ -44,12 +46,12 @@ src/
 │   ├── Login.jsx
 │   └── ProductDetails.jsx
 ├── services/
-│   └──api.js
+│   └── api.js
 ├── App.css
 ├── App.jsx
 ├── index.css
 └── main.jsx
-
+```
 
 ---
 
@@ -57,17 +59,20 @@ src/
 
 ```bash
 # clonar repositório
-git clone https://github.com/edufl/fake-ecommerce.git
+git clone https://github.com/edufl/ecommerce.git
 
 # entrar na pasta
-cd seu-repo
+cd ecommerce
 
 # instalar dependências
 npm install
 
 # rodar projeto
 npm run dev
+```
 
-👨‍💻 Autor
+---
 
-Desenvolvido por edufl
+## 👨‍💻 Autor
+
+Desenvolvido por **edufl**
