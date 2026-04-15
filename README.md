@@ -18,6 +18,13 @@ Projeto de e-commerce desenvolvido em React com funcionalidades reais de uma loj
 
 ---
 
+## 🎥 Demonstração do ecommerce
+
+
+https://github.com/user-attachments/assets/9c8cd114-73d7-4208-ad33-6c0ce871e641
+
+
+
 ## 🛠️ Tecnologias
 
 - React
