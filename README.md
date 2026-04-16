@@ -14,7 +14,6 @@ Projeto de e-commerce desenvolvido em React com funcionalidades reais de uma loj
 - 💳 Checkout com pagamento fake
 - 🔐 Login fake (autenticação)
 - 🔔 Toast de notificações
-- 📱 Responsivo (mobile)
 
 ---
 
